@@ -1,22 +1,25 @@
 # Table of contents
 
-* [🥖 Documentation LaBoulangerie](README.md)
+* [🥖 Documentation LaBoulangerie.net](README.md)
 
-## Overview
+## Towny
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 What we do](towny/what-we-do/README.md)
+  * [🤝 Permissions](towny/what-we-do/permissions.md)
+* [✨ Our Features](towny/our-features.md)
+* [🏡 Créer un village](towny/creer-un-village.md)
+* [🏘 Village](towny/village.md)
+* [👑 Nation](towny/nation.md)
+* [💸 Taxes](towny/taxes.md)
+* [⚔ Conflits](towny/conflits.md)
 
-## Product Guides
+## Brewery
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [🍻 Fonctionnement de Brewery](brewery/fonctionnement-de-brewery.md)
 
-## Fundamentals
+## Plugins spécifiques du serveur
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🆙 LaBoulangerieMmo](plugins-specifiques-du-serveur/laboulangeriemmo.md)
 
 ## Use Cases
 
