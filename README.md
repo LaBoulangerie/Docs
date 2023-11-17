@@ -18,12 +18,12 @@ Si vous avez un doute sur le fonctionnement d'une commande ingame, faites une re
 
 ## Quick links
 
-{% content-ref url="towny/what-we-do/" %}
-[what-we-do](towny/what-we-do/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="towny/our-features.md" %}
-[our-features.md](towny/our-features.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Get Started
