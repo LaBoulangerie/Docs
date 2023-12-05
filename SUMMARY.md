@@ -18,3 +18,8 @@
 ## Plugins spécifiques du serveur
 
 * [🆙 LaBoulangerieMmo](plugins-specifiques-du-serveur/laboulangeriemmo.md)
+
+## items customs (ITEMSADDER)
+
+* [📘 Les livres](items-customs-itemsadder/les-livres.md)
+* [🖌 Divers](items-customs-itemsadder/divers.md)
