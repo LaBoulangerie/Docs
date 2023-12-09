@@ -3,6 +3,22 @@ description: >-
   La Boulangerie met à disposition un système de chat vocal qui permet aux
   joueurs de parler entre eux par proximité ou à distance via des groupes. Voici
   un guide expliquant comment installer le mod.
+cover: ../.gitbook/assets/image (4).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🎙 Voice chat
