@@ -19,7 +19,7 @@
 
 * [🆙 LaBoulangerieMmo](plugins-specifiques-du-serveur/laboulangeriemmo.md)
 
-## items customs (ITEMSADDER)
+## items customs
 
-* [📘 Les livres](items-customs-itemsadder/les-livres.md)
-* [🖌 Divers](items-customs-itemsadder/divers.md)
+* [📘 Les livres](items-customs/les-livres.md)
+* [🖌 Divers](items-customs/divers.md)
