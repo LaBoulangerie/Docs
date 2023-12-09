@@ -4,13 +4,13 @@
 
 Il est possible de crafter des coffres de façon alternative en utilisant des barils. Le craft se présente sous la forme suivante et le format est libre (du moment que le nombre d'item est conforme à ce qui est indiqué).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Bundle (petit sac)
 
 Cet item vous permet d'y stocker à l'intérieur jusqu'à 64 items (différents ou non). Le craft se présente sous la forme suivante et le schéma doit être respecté et le nombre d'items doit être conforme également.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -18,15 +18,15 @@ Cet item vous permet d'y stocker à l'intérieur jusqu'à 64 items (différents 
 
 Il est possible de faire en sorte que du bois soit transformé en buche de bois et ceci, avec toutes sortes de bois.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Avec du bois de chêne</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Avec du bois de chêne</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Avec du bois de bouleau</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Avec du bois de bouleau</p></figcaption></figure>
 
 ### Propagule de mangrove -> Bâton
 
 Un item plus ou moins utiles selon les opinions, néanmoins, il vous est possible de transformer une propagule de mangrove en un bâton (de bois).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Armure en maille
 

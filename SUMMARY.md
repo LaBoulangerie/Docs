@@ -18,6 +18,7 @@
 ## Plugins spécifiques du serveur
 
 * [🆙 LaBoulangerieMmo](plugins-specifiques-du-serveur/laboulangeriemmo.md)
+* [🎙 Voice chat](plugins-specifiques-du-serveur/voice-chat.md)
 
 ## items customs
 
