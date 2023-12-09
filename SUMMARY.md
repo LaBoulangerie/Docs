@@ -15,10 +15,10 @@
 
 * [🍻 Fonctionnement de Brewery](brewery/fonctionnement-de-brewery.md)
 
-## Plugins spécifiques du serveur
+## Plugins
 
-* [🆙 LaBoulangerieMmo](plugins-specifiques-du-serveur/laboulangeriemmo.md)
-* [🎙 Voice chat](plugins-specifiques-du-serveur/voice-chat.md)
+* [🆙 LaBoulangerieMmo](plugins/laboulangeriemmo.md)
+* [🎙 Voice chat](plugins/voice-chat.md)
 
 ## items customs
 
